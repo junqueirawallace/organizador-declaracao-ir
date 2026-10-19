@@ -1,0 +1,20 @@
+ENTREGA DO PROJETO DIO — ORGANIZADOR IR
+
+Arquivos:
+- organizador_declaracao_ir.xlsx — planilha principal.
+- README.md — documentação para o GitHub.
+- VBA_MoverIconeParaPosicao.bas — macro opcional para Excel desktop.
+- INSTRUCOES_ENTREGA_DIO.txt — passos finais e descrição sugerida.
+
+Passos:
+1. Baixe e extraia o ZIP.
+2. Abra a planilha e confira a estrutura.
+3. Não inclua dados pessoais reais na versão pública.
+4. Envie organizador_declaracao_ir.xlsx e README.md ao repositório público do GitHub.
+5. Inclua o arquivo VBA somente se fizer sentido para a entrega; ele é opcional e não funciona no Excel para iPad.
+6. Copie o link do repositório para a entrega da DIO.
+
+Descrição sugerida:
+"Desenvolvi uma ferramenta em Excel para organizar informações essenciais à preparação da Declaração do Imposto de Renda, com abas para contribuinte, rendimentos, pagamentos, bens e direitos, dependentes e checklist de documentos. O projeto utiliza validação de dados, navegação entre abas, tabelas e resumo automático para facilitar a conferência das informações. A ferramenta tem finalidade organizacional e não substitui os sistemas ou orientações oficiais da Receita Federal."
+
+Atenção: confira as regras do exercício nas fontes oficiais. Não publique dados pessoais reais no GitHub.
