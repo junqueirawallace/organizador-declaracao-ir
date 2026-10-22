@@ -50,3 +50,9 @@ Demonstrar organização de informações, estruturação de dados, validação 
 
 ## Aviso
 Projeto educativo. Não substitui o programa oficial de declaração, as instruções da Receita Federal ou aconselhamento profissional. A presença de uma categoria na planilha não significa que um valor seja dedutível ou deva ser informado de determinada forma.
+
+## Autor
+
+### Wallace F. Junqueira
+
+Graduado em Tecnologia em Logística. Estudante de Gestão da Tecnologia da Informação. Pós Graduado em MBA Data Warehouse e Business Intelligence
